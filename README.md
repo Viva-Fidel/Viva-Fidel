@@ -4,6 +4,7 @@ I'm Aleksei (28 y/o) :monocle_face:
 
 I'm mainly interested in projects related to computer vision :video_camera:  
 
+Example of interesting project:  
 ![giphy](https://user-images.githubusercontent.com/98227548/199694244-9d9ae381-92ee-47db-b8e5-fcf032623250.gif)
 
 
