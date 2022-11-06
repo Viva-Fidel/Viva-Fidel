@@ -41,10 +41,10 @@ Example of project that could be interesting to me:
 
 ### Some of my projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=is-it-a-pug)](https://github.com/Viva-Fidel/is-it-a-pug)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=plaNet)](]https://github.com/Viva-Fidel/plaNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=Yolov7-with-pytorch-weights)](]https://github.com/Viva-Fidel/Yolov7-with-pytorch-weights)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=ai-vms)](]https://github.com/Viva-Fidel/ai-vms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](]https://github.com/Viva-Fidel/RoadNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=plaNet)](https://github.com/Viva-Fidel/plaNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=Yolov7-with-pytorch-weights)](https://github.com/Viva-Fidel/Yolov7-with-pytorch-weights)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=ai-vms)](https://github.com/Viva-Fidel/ai-vms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
 
 ### Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viva-fidel&layout=compact)](https://github.com/viva-fidel/github-readme-stats)  
