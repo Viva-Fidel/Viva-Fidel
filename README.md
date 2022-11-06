@@ -26,9 +26,18 @@ Example of project that could be interesting to me:
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
 ### I'm currently learning:
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
+          
+### I'm planning to learn:  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
 
 ### Some of my projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=is-it-a-pug)](https://github.com/Viva-Fidel/is-it-a-pug)
