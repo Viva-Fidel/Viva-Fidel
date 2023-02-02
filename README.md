@@ -45,7 +45,6 @@ Example of project that could be interesting to me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=Yolov7-with-pytorch-weights)](https://github.com/Viva-Fidel/Yolov7-with-pytorch-weights)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=ai-vms)](https://github.com/Viva-Fidel/ai-vms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=video-managment-system)](https://github.com/Viva-Fidel/video-managment-system)
 
 ### Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viva-fidel&layout=compact)](https://github.com/viva-fidel/github-readme-stats)  
