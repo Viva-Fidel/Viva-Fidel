@@ -41,15 +41,15 @@ Example of project that could be interesting to me:
           
 
 ### Some of my projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=website-hamburger-menu-detector)](https://github.com/Viva-Fidel/website-hamburger-menu-detector)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=Tbot-saving-audio-and-faces)](https://github.com/Viva-Fidel/Tbot-saving-audio-and-faces)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=plaNet)](https://github.com/Viva-Fidel/plaNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=ai-vms)](https://github.com/Viva-Fidel/ai-vms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=Yolov7-with-pytorch-weights)](https://github.com/Viva-Fidel/Yolov7-with-pytorch-weights)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viva-fidel&repo=is-it-a-pug)](https://github.com/Viva-Fidel/is-it-a-pug)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=Tbot-saving-audio-and-faces)](https://github.com/Viva-Fidel/Tbot-saving-audio-and-faces)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=plaNet)](https://github.com/Viva-Fidel/plaNet)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=ai-vms)](https://github.com/Viva-Fidel/ai-vms)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=Yolov7-with-pytorch-weights)](https://github.com/Viva-Fidel/Yolov7-with-pytorch-weights)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=is-it-a-pug)](https://github.com/Viva-Fidel/is-it-a-pug)
 
 ### Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viva-fidel&layout=compact)](https://github.com/viva-fidel/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viva-fidel&layout=compact)](https://github.com/viva-fidel/github-readme-stats) 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viva-fidel&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=viva-fidel&show_icons=true&theme=radical)  
