@@ -20,6 +20,7 @@ Example of project that could be interesting to me:
 
 ### Languages and Tools:
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+          
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
@@ -45,8 +46,6 @@ Example of project that could be interesting to me:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=website-hamburger-menu-detector)](https://github.com/Viva-Fidel/website-hamburger-menu-detector)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=Tbot-saving-audio-and-faces)](https://github.com/Viva-Fidel/Tbot-saving-audio-and-faces)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=plaNet)](https://github.com/Viva-Fidel/plaNet)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=ai-vms)](https://github.com/Viva-Fidel/ai-vms)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=Yolov7-with-pytorch-weights)](https://github.com/Viva-Fidel/Yolov7-with-pytorch-weights)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=is-it-a-pug)](https://github.com/Viva-Fidel/is-it-a-pug)
 
 ### Github stats
