@@ -40,7 +40,6 @@ Example of project that could be interesting to me:
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> 
           
-
 ### Some of my projects:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=p2p-cloud-vms)](https://github.com/Viva-Fidel/p2p-cloud-vms)
