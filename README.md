@@ -42,6 +42,7 @@ Example of project that could be interesting to me:
           
 ### Some of my projects:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=p2p-cloud-vms)](https://github.com/Viva-Fidel/p2p-cloud-vms)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=website-hamburger-menu-detector)](https://github.com/Viva-Fidel/website-hamburger-menu-detector)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=Tbot-saving-audio-and-faces)](https://github.com/Viva-Fidel/Tbot-saving-audio-and-faces)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=plaNet)](https://github.com/Viva-Fidel/plaNet)
