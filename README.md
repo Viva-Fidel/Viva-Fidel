@@ -7,8 +7,8 @@ I'm mainly interested in projects related to computer vision or backend developm
 Example of project that could be interesting to me:    
 ![giphy](https://media.giphy.com/media/l0Iy9iqThC2ueLTkA/giphy.gif)
 
- <img src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media.tenor.com/jNtyOcDG9uEAAAAd/scaler-create-impact.gif)
-"/>
+https://media.tenor.com/jNtyOcDG9uEAAAAd/scaler-create-impact.gif
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/alekseiartamonov/">
