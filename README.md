@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm Aleksei (28 y/o) :monocle_face:
+I'm Aleksei (29 y/o) :monocle_face:
 
-I'm mainly interested in projects related to computer vision :video_camera:  
+I'm mainly interested in projects related to computer vision or backend development :snake: :video_camera: :floppy_disk:
 
 Example of project that could be interesting to me:    
-![giphy](https://user-images.githubusercontent.com/98227548/199694244-9d9ae381-92ee-47db-b8e5-fcf032623250.gif)
+![giphy](https://media.giphy.com/media/l0Iy9iqThC2ueLTkA/giphy.gif)
+
+![giphy](https://media.tenor.com/jNtyOcDG9uEAAAAd/scaler-create-impact.gif)
 
 
 ### Connect with me:
