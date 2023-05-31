@@ -6,7 +6,8 @@ I'm mainly interested in projects related to computer vision or backend developm
 
 Example of project that could be interesting to me:    
 ![giphy](https://media.giphy.com/media/l0Iy9iqThC2ueLTkA/giphy.gif)
-![tenor](https://media.tenor.com/jNtyOcDG9uEAAAAd/scaler-create-impact.gif)
+![giphy]([https://github.com/Viva-Fidel/Viva-Fidel/assets/98227548/bd030dc9-b8cd-4086-ac12-0a8e40361866](https://media.tenor.com/jNtyOcDG9uEAAAAd/scaler-create-impact.gif))
+
 
 ### Connect with me:
 
