@@ -4,9 +4,9 @@ I'm Aleksei (29 y/o) :monocle_face:
 
 I'm mainly interested in projects related to computer vision or backend development :snake: :video_camera: :floppy_disk:
 
-Example of project that could be interesting to me:    
+<!-- Example of project that could be interesting to me:    
 ![giphy](https://media.giphy.com/media/l0Iy9iqThC2ueLTkA/giphy.gif)
-[https://github.com/Viva-Fidel/Viva-Fidel/assets/98227548/bd030dc9-b8cd-4086-ac12-0a8e40361866](https://media.tenor.com/jNtyOcDG9uEAAAAd/scaler-create-impact.gif)
+![image](https://github.com/Viva-Fidel/Viva-Fidel/assets/98227548/14d59019-ba8e-4fc2-b4a4-ad262eab815c) -->
 
 
 ### Connect with me:
@@ -42,12 +42,12 @@ Example of project that could be interesting to me:
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> 
           
 ### Some of my projects:
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=hotel-booking)](https://github.com/Viva-Fidel/hotel-booking)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=p2p-cloud-vms)](https://github.com/Viva-Fidel/p2p-cloud-vms)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=website-hamburger-menu-detector)](https://github.com/Viva-Fidel/website-hamburger-menu-detector)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=Tbot-saving-audio-and-faces)](https://github.com/Viva-Fidel/Tbot-saving-audio-and-faces)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=plaNet)](https://github.com/Viva-Fidel/plaNet)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=is-it-a-pug)](https://github.com/Viva-Fidel/is-it-a-pug)
 
 ### Github stats
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viva-fidel&layout=compact)](https://github.com/viva-fidel/github-readme-stats) 
