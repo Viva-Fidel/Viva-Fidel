@@ -31,6 +31,7 @@ I'm mainly interested in projects related to computer vision or backend developm
           
 ### Some of my projects:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=hotel-booking)](https://github.com/Viva-Fidel/hotel-booking)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=profbuh-video-to-article)](https://github.com/Viva-Fidel/profbuh-video-to-article)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=RoadNet)](https://github.com/Viva-Fidel/RoadNet)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=p2p-cloud-vms)](https://github.com/Viva-Fidel/p2p-cloud-vms)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=viva-fidel&repo=website-hamburger-menu-detector)](https://github.com/Viva-Fidel/website-hamburger-menu-detector)
