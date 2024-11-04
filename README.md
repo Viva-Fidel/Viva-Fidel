@@ -8,8 +8,6 @@ I'm mainly interested in projects related to computer vision or backend developm
 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/alekseiartamonov/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://t.me/Lefanatedememes">
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:alexis.artamonov@gmail.com">
