@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Aleksei (30 y/o) :monocle_face:
+I'm Aleksei (31 y/o) :monocle_face:
 
 I'm mainly interested in projects related to computer vision or backend development :snake: :video_camera: :floppy_disk:
  
