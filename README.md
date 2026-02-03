@@ -2,7 +2,7 @@
 
 I'm Aleksei (31 y/o) :monocle_face:
 
-I'm mainly interested in projects related to computer vision or backend development :snake: :video_camera: :floppy_disk:
+I'm mainly interested in projects related to computer vision or backend development :snake: :video_camera: :floppy_disk: 
  
 ![giphy](https://media.giphy.com/media/l0Iy9iqThC2ueLTkA/giphy.gif)
 
